@@ -1,6 +1,6 @@
 # Passive Scan Client | Burp被动扫描流量转发插件
 
-
+**编译好的Jar在target文件下**
 ## 0x01 插件简介
 
 ```
